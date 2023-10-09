@@ -1,0 +1,363 @@
+[
+    {
+        "Name": "Sun",
+        "SolarSystem": "Sol",
+        "Type": "G-type main-sequence star (G2V)",
+        "EarthDistanceLightYears": 0
+    },
+    {
+        "Name": "Proxima Centauri",
+        "SolarSystem": "Alpha Centauri",
+        "Type": "Red dwarf (M5.5V)",
+        "EarthDistanceLightYears": 4.24
+    },
+    {
+        "Name": "Sirius",
+        "SolarSystem": "Sirius System",
+        "Type": "Binary star system (A1V, DA2)",
+        "EarthDistanceLightYears": 8.58
+    },
+    {
+        "Name": "Alpha Centauri A",
+        "SolarSystem": "Alpha Centauri",
+        "Type": "G-type main-sequence star (G2V)",
+        "EarthDistanceLightYears": 4.37
+    },
+    {
+        "Name": "Alpha Centauri B",
+        "SolarSystem": "Alpha Centauri",
+        "Type": "K-type main-sequence star (K1V)",
+        "EarthDistanceLightYears": 4.37
+    },
+    {
+        "Name": "Vega",
+        "SolarSystem": "Vega System",
+        "Type": "A-type main-sequence star (A0V)",
+        "EarthDistanceLightYears": 25.05
+    },
+    {
+        "Name": "Betelgeuse",
+        "SolarSystem": "Orion",
+        "Type": "Red supergiant (M1-2 Ia)",
+        "EarthDistanceLightYears": 642.5
+    },
+    {
+        "Name": "Rigel",
+        "SolarSystem": "Orion",
+        "Type": "Blue supergiant (B8 Ia)",
+        "EarthDistanceLightYears": 860.2
+    },
+    {
+        "Name": "Antares",
+        "SolarSystem": "Scorpius",
+        "Type": "Red supergiant (M1.5Iab-b)",
+        "EarthDistanceLightYears": 550.7
+    },
+    {
+        "Name": "Arcturus",
+        "SolarSystem": "Boötes",
+        "Type": "Orange giant (K1.5III)",
+        "EarthDistanceLightYears": 36.7
+    },
+    {
+        "Name": "Pollux",
+        "SolarSystem": "Gemini",
+        "Type": "Orange giant (K0III)",
+        "EarthDistanceLightYears": 33.7
+    },
+    {
+        "Name": "Altair",
+        "SolarSystem": "Aquila",
+        "Type": "White main-sequence star (A7V)",
+        "EarthDistanceLightYears": 16.7
+    },
+    {
+        "Name": "Deneb",
+        "SolarSystem": "Cygnus",
+        "Type": "Blue supergiant (A2Ia)",
+        "EarthDistanceLightYears": 2615
+    },
+    {
+        "Name": "Polaris",
+        "SolarSystem": "Ursa Minor",
+        "Type": "Yellow supergiant (F7Ib)",
+        "EarthDistanceLightYears": 433.8
+    },
+    {
+        "Name": "Aldebaran",
+        "SolarSystem": "Taurus",
+        "Type": "Orange giant (K5III)",
+        "EarthDistanceLightYears": 65.1
+    },
+    {
+        "Name": "Spica",
+        "SolarSystem": "Virgo",
+        "Type": "Binary star system (B1III-IV, B2V)",
+        "EarthDistanceLightYears": 262.3
+    },
+    {
+        "Name": "Capella",
+        "SolarSystem": "Auriga",
+        "Type": "Binary star system (G5III, G0III)",
+        "EarthDistanceLightYears": 42.2
+    },
+    {
+        "Name": "Castor",
+        "SolarSystem": "Gemini",
+        "Type": "Binary star system (A1V, A2V)",
+        "EarthDistanceLightYears": 51.6
+    },
+    {
+        "Name": "Achernar",
+        "SolarSystem": "Eridanus",
+        "Type": "Blue-white subgiant (B6IVe)",
+        "EarthDistanceLightYears": 139
+    },
+    {
+        "Name": "Alpha Proxima",
+        "SolarSystem": "Alpha Centauri",
+        "Type": "Red dwarf (M6V)",
+        "EarthDistanceLightYears": 4.24
+    },
+    {
+        "Name": "Tau Ceti",
+        "SolarSystem": "Tau Ceti",
+        "Type": "G-type main-sequence star (G8V)",
+        "EarthDistanceLightYears": 11.91
+    },
+    {
+        "Name": "Barnard's Star",
+        "SolarSystem": "Barnard's Star System",
+        "Type": "Red dwarf (M4V)",
+        "EarthDistanceLightYears": 5.96
+    },
+    {
+        "Name": "Regulus",
+        "SolarSystem": "Leo",
+        "Type": "Blue-white main-sequence star (B7V)",
+        "EarthDistanceLightYears": 79.3
+    },
+    {
+        "Name": "Fomalhaut",
+        "SolarSystem": "Piscis Austrinus",
+        "Type": "White main-sequence star (A3V)",
+        "EarthDistanceLightYears": 25.1
+    },
+    {
+        "Name": "Epsilon Eridani",
+        "SolarSystem": "Epsilon Eridani System",
+        "Type": "Orange dwarf (K2V)",
+        "EarthDistanceLightYears": 10.5
+    },
+    {
+        "Name": "Delta Pavonis",
+        "SolarSystem": "Delta Pavonis System",
+        "Type": "Yellow dwarf (G5V)",
+        "EarthDistanceLightYears": 19.9
+    },
+    {
+        "Name": "VY Canis Majoris",
+        "SolarSystem": "Canis Major",
+        "Type": "Red hypergiant (M1Ia)",
+        "EarthDistanceLightYears": 3840
+    },
+    {
+        "Name": "Albireo",
+        "SolarSystem": "Cygnus",
+        "Type": "Binary star system (K3II, B9.5V)",
+        "EarthDistanceLightYears": 385.1
+    },
+    {
+        "Name": "Bellatrix",
+        "SolarSystem": "Orion",
+        "Type": "Blue giant (B2III)",
+        "EarthDistanceLightYears": 243.9
+    },
+    {
+        "Name": "Acrux",
+        "SolarSystem": "Crux",
+        "Type": "Binary star system (B0.5IV, B1V)",
+        "EarthDistanceLightYears": 320.4
+    },
+    {
+        "Name": "Polaris Australis",
+        "SolarSystem": "Octans",
+        "Type": "Yellow giant (K3III)",
+        "EarthDistanceLightYears": 433.8
+    },
+    {
+        "Name": "Vega Minoris",
+        "SolarSystem": "Lyra",
+        "Type": "White dwarf (DZ7)",
+        "EarthDistanceLightYears": 25.05
+    },
+    {
+        "Name": "Zeta Tucanae",
+        "SolarSystem": "Tucana",
+        "Type": "Binary star system (F9V, G8V)",
+        "EarthDistanceLightYears": 28
+    },
+    {
+        "Name": "Diphda",
+        "SolarSystem": "Cetus",
+        "Type": "Yellow giant (K0III)",
+        "EarthDistanceLightYears": 100.8
+    },
+    {
+        "Name": "Achird",
+        "SolarSystem": "Cassiopeia",
+        "Type": "Binary star system (K3III, K7)",
+        "EarthDistanceLightYears": 19.3
+    },
+    {
+        "Name": "Mirach",
+        "SolarSystem": "Andromeda",
+        "Type": "Red giant (M0III)",
+        "EarthDistanceLightYears": 199.7
+    },
+    {
+        "Name": "Algol",
+        "SolarSystem": "Perseus",
+        "Type": "Binary star system (B8V, K0IV)",
+        "EarthDistanceLightYears": 92.8
+    },
+    {
+        "Name": "Nunki",
+        "SolarSystem": "Sagittarius",
+        "Type": "Blue giant (B2V)",
+        "EarthDistanceLightYears": 224.6
+    },
+    {
+        "Name": "Alkaid",
+        "SolarSystem": "Ursa Major",
+        "Type": "Blue-white main-sequence star (B3V)",
+        "EarthDistanceLightYears": 101.8
+    },
+    {
+        "Name": "Regor",
+        "SolarSystem": "Leo",
+        "Type": "Red dwarf (M4V)",
+        "EarthDistanceLightYears": 42.3
+    },
+    {
+        "Name": "Alderamin",
+        "SolarSystem": "Cepheus",
+        "Type": "White main-sequence star (A7V)",
+        "EarthDistanceLightYears": 49
+    },
+    {
+        "Name": "Mizar",
+        "SolarSystem": "Ursa Major",
+        "Type": "Quintuple star system (A2V, A2V, A2V, A7V, M0V)",
+        "EarthDistanceLightYears": 78.2
+    },
+    {
+        "Name": "Naos",
+        "SolarSystem": "Puppis",
+        "Type": "Blue supergiant (O4Ia)",
+        "EarthDistanceLightYears": 1084
+    },
+    {
+        "Name": "Gienah",
+        "SolarSystem": "Cygnus",
+        "Type": "Blue-white giant (A0IV)",
+        "EarthDistanceLightYears": 72.8
+    },
+    {
+        "Name": "Elnath",
+        "SolarSystem": "Taurus",
+        "Type": "Binary star system (B7III, B7V)",
+        "EarthDistanceLightYears": 134.4
+    },
+    {
+        "Name": "Menkar",
+        "SolarSystem": "Cetus",
+        "Type": "Red giant (M2III)",
+        "EarthDistanceLightYears": 220.6
+    },
+    {
+        "Name": "Markab",
+        "SolarSystem": "Pegasus",
+        "Type": "Blue-white giant (B9III)",
+        "EarthDistanceLightYears": 140
+    },
+    {
+        "Name": "Alphard",
+        "SolarSystem": "Hydra",
+        "Type": "Orange giant (K3II-III)",
+        "EarthDistanceLightYears": 177.7
+    },
+    {
+        "Name": "Hamal",
+        "SolarSystem": "Aries",
+        "Type": "Orange giant (K2III)",
+        "EarthDistanceLightYears": 65.8
+    },
+    {
+        "Name": "Mirfak",
+        "SolarSystem": "Perseus",
+        "Type": "Yellow supergiant (F5Ib)",
+        "EarthDistanceLightYears": 590.3
+    },
+    {
+        "Name": "Zubenelgenubi",
+        "SolarSystem": "Libra",
+        "Type": "Binary star system (A2IV, F3V)",
+        "EarthDistanceLightYears": 77.6
+    },
+    {
+        "Name": "Atria",
+        "SolarSystem": "Triangulum Australe",
+        "Type": "Red giant (K2III)",
+        "EarthDistanceLightYears": 392.4
+    },
+    {
+        "Name": "Rasalhague",
+        "SolarSystem": "Ophiuchus",
+        "Type": "White main-sequence star (A5V)",
+        "EarthDistanceLightYears": 47.9
+    },
+    {
+        "Name": "Caph",
+        "SolarSystem": "Cassiopeia",
+        "Type": "White giant (F2Ib)",
+        "EarthDistanceLightYears": 54.4
+    },
+    {
+        "Name": "Sadr",
+        "SolarSystem": "Cygnus",
+        "Type": "White supergiant (F8Ib)",
+        "EarthDistanceLightYears": 1800
+    },
+    {
+        "Name": "Kaus Australis",
+        "SolarSystem": "Sagittarius",
+        "Type": "Blue-white main-sequence star (B9.5V)",
+        "EarthDistanceLightYears": 143.2
+    },
+    {
+        "Name": "Nihal",
+        "SolarSystem": "Lepus",
+        "Type": "Blue giant (B8III)",
+        "EarthDistanceLightYears": 158.1
+    },
+    {
+        "Name": "Alnair",
+        "SolarSystem": "Grus",
+        "Type": "Blue-white subgiant (B7IV)",
+        "EarthDistanceLightYears": 101.6
+    },
+    {
+        "Name": "Acamar",
+        "SolarSystem": "Eridanus",
+        "Type": "Binary star system (A3IV-V, A5V)",
+        "EarthDistanceLightYears": 161.9
+    },
+    {
+        "Name": "Dschubba",
+        "SolarSystem": "Scorpius",
+        "Type": "Triple star system (B0.2IV, B1V, B2V)",
+        "EarthDistanceLightYears": 398
+    }
+]
+

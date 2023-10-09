@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List Of All Stars</title>
+</head>
+<body>
+    <a href="/">Go back to Home Page</a>
+    <br>
+    <a href="/createOneStar">Create a new Star</a>
+    <h1>List Of Stars</h1>
+    <br>
+    <% everyStar.forEach((oneStar) => { %>
+        <h2> 
+            <a href="/oneStar/<%= oneStar.Name %>">
+                <%= oneStar.Name %>
+            </a> 
+        </h2>
+    
+    <% }) %>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%=oneStar.Name%></title>
+</head>
+<body>
+    <h1> Name: <%=oneStar.Name%></h1>
+    <h2> Solar System: <%=oneStar.SolarSystem%></h2>
+    <h3> Type: <%=oneStar.Type%></h3>
+    <h3> Distance from Earth in Light Years: <%=oneStar.EarthDistanceLightYears%></h3>
+
+    <br>
+        <a href="/updateStar/<%=oneStar.Name%>">Update this Star</a>
+    <br><br><br>
+    <form action="/api/stars/deleteOneStar/<%=oneStar.Name%>?_method=DELETE" method="post">
+        <input type="submit" name="_method" value="DELETE THIS STAR">
+    </form>
+</body>
+</html>
